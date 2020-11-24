@@ -15,4 +15,4 @@
 跳转之后，出现选择项，选择自定义的MyBrowser进行浏览
 实验截图： ![image](https://github.com/peach7k/Test4/blob/main/Test_4-pic/T2.png)
 
-           ![image](https://github.com/peach7k/Test4/blob/main/Test_4-pic/T3.png)
+实验截图： ![image](https://github.com/peach7k/Test4/blob/main/Test_4-pic/T3.png)
