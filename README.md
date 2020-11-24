@@ -9,8 +9,10 @@
 三，实验步骤实验
 1.新建一个工程用来获取URL地址并启动Intent
 输入URL网址，点击按钮，将发起浏览网页的行为
-实验截图:
+实验截图:![image](https://github.com/peach7k/Test4/blob/main/Test_4-pic/T1.png)
 
 2.新建一个工程使用WebView来加载URL
 跳转之后，出现选择项，选择自定义的MyBrowser进行浏览
-实验截图：
+实验截图： ![image](https://github.com/peach7k/Test4/blob/main/Test_4-pic/T2.png)
+
+           ![image](https://github.com/peach7k/Test4/blob/main/Test_4-pic/T3.png)
